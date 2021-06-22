@@ -1,0 +1,9 @@
+*slsc.txt* Simplete Language Server Client
+
+Author:  Phuoc Tai Tran <https:/github.com/jkoz/>
+Repo:    https://github.com/jkoz/vim-slsc
+License: Same terms as Vim itself (see |license|)
+
+INTRODUCTION                                    *slsc*
+COMMANDS                                        *slsc-commands*
+MAPS                                            *slsc-maps*
